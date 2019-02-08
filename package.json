@@ -1,0 +1,16 @@
+{
+  "name": "my-design-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/react": "^4.1.11"
+  },
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  }
+}
